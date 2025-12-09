@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "FoRDM"]
 	path = FoRDM
-	url = https://github.com/cran/FoRDM
+	url = https://github.com/mdjahan/fordm
